@@ -1,4 +1,4 @@
-# Chatbot MVP
+# 🚀 Chatbot MVP: Entra ID + Azure Cosmos DB Integration
 
 This is an **MVP prototype** for a chatbot with **Microsoft Entra ID authentication** and **Azure Cosmos DB storage**. It serves as a proof of concept for authentication flows and session management within the Azure ecosystem.
 
