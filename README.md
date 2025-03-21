@@ -1,4 +1,4 @@
-# 🚀 DataDex Chatbot MVP: Entra ID + Azure Cosmos DB Integration
+# 🚀 Chatbot MVP: Entra ID + Azure Cosmos DB Integration
 
 This repository is part of a **larger chatbot project** that we are actively developing. The code here serves as a **Minimum Viable Product (MVP)** prototype designed to **test authentication capabilities** and **evaluate different options for storing chat history** within the Azure ecosystem.
 
