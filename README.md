@@ -1,4 +1,4 @@
-# DataDex Chatbot MVP
+
 
 This is an **MVP prototype** for a chatbot with **Microsoft Entra ID authentication** and **Azure Cosmos DB storage**. It serves as a proof of concept for authentication flows and session management within the Azure ecosystem.
 
@@ -36,5 +36,4 @@ CLIENT_SECRET=your-client-secret
 python app.py
 ```
 Visit http://localhost:5000 in your browser.
-
 
